@@ -25,5 +25,5 @@ I'm Anmol Kumar pursuing Masters of Computer Applications from Kurukshetra Unive
 I also want to learn about Artificial Intelligence and all its branches like ML,DL,big data etc. Apart from this, I like to analyze companies fundamentally and technically. I know English, Hindi, and Punjabi. I have keen interest in exploring foreign languages, so I have learnt Japanese and Urdu.
 
 # Links
-www.instagram.com/anmol_kumar007/
+www.instagram.com/anmol_kumar007/ \n
 www.linkedin.com/in/anmol-kumar-2106
